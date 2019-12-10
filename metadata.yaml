@@ -1,5 +1,8 @@
 _repo: Yesterdays-in-the-Philippines_60842
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Stevens, Joseph Earle
@@ -7,6 +10,8 @@ creator:
     gutenberg_agent_id: '51159'
     url: http://www.gutenberg.org/2009/agents/51159
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60842#Yesterdays-in-the-Philippines
 gutenberg_issued: '2019-12-03'
 gutenberg_type: Text
 identifiers:
